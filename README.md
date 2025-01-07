@@ -29,7 +29,7 @@
    <!-- Jenkins -->
    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-   <img src="https://img.shields.io/docker/automated/:user/:repo&logo=docker&logoColor=white" alt="Docker Badge"/>
+   <!--img src="https://img.shields.io/docker/automated/:user/:repo&logo=docker&logoColor=white" alt="Docker Badge"/>
 </p>
 -->
 
